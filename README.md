@@ -5,6 +5,6 @@ Each player has their own Points. <br/>
 There will be a limited no. of points to select 11 players, if we don't have enough points we can't select a player if his points are more and the team is evaluated using points of each player based on their performance internally. 
 To win a tournament, we must try and get the maximum points and the No. 1 rank amongst other participants.
 # Applications Used 
-Qtdesigner for developing widgets 
-Sqlitestudio db files 
+Qtdesigner for developing widgets <br/>
+Sqlitestudio db files <br/>
 ipynb python files
